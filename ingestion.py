@@ -28,8 +28,6 @@ def ingest_docs():
 
     print("****Loading to vectorstore done &***")
 
-
-
 if __name__ == "__main__":
     print("ingestion")
     ingest_docs()
